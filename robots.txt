@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://royalsea.pages.dev/sitemap.xml
+Sitemap: https://royalsea-4fw.pages.dev/sitemap.xml
